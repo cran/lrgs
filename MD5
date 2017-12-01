@@ -1,7 +1,7 @@
-3357cefa712aba6deec5c43266024b79 *DESCRIPTION
+9d6c3600da1c1dd6b9f2910488aa195d *DESCRIPTION
 b2743a5a29aaed61f067c8928accd95a *LICENSE
 af8c81e0a7190133ebb551a5e009c217 *NAMESPACE
-37b2c95effe693213cc4b1b5accb69e3 *R/lrgs.R
+cb84d80b433b2bc6ae89ea169bae8ab4 *R/lrgs.R
 f1b8cc32d99e14121f508fb352f6c947 *man/Gibbs.post2dataframe.Rd
 90eb9a5269e446b27cc865f5f0856868 *man/Gibbs.regression.Rd
-170e347881497a842c7bc7dc055d8861 *man/lrgs-package.Rd
+561facf959078a3e09c89f303be202be *man/lrgs-package.Rd
